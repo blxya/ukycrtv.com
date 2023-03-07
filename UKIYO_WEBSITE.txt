@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body { 
+  margin: 0;
+  font-family:  "calibri", sans-serif;
+}
+
+.header {
+  overflow: hidden;
+  padding: 10px 20px;
+
+}
+
+.header a {
+  float: left;
+  color: #58287F;
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px; 
+  line-height: 20px;
+  border-radius: 4px;
+}
+
+.header a.logo {
+	padding:0px;
+}
+
+.header a:hover {
+  background-color: #A8A4CE;
+  color: #58287F;
+}
+
+.header a.active {
+  background-color: #5C2E7E;
+  color: white;
+}
+
+.header-right {
+  float: right;
+}
+
+@media screen and (max-width: 500px) {
+  .header a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  
+  .header-right {
+    float: none;
+  }
+
+</style>
+
+<div class="header" id="header">
+	<img src="ukiyologo1.png" width="300">
+  <div class="header-right">
+    <a class="active" href="#this">UKIYO</a>
+    <a href="#calendar">CALENDAR</a>
+    <a href="#celebrants">CELEBRANTS</a>
+    <a href="#contact">CONTACT</a>
+  </div>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body,h2,h3,h4,h5,h6 {font-family: "calibri", sans-serif}
+</style>
+<body style="max-width:1600px" bgcolor="#EEEEEE">
+
+<div>
+    <div class="w3-section w3-bottombar w3-padding-16">
+</div>
+
+<br> <br>
+
+<div id="this">	 
+	  <div class="w3-row-padding">
+    <div class="w3-third w3-container w3-margin-bottom">
+      <a href="https://instagram.com/ukycrtv?igshid=YmMyMTA2M2Y="><img src="2.png" style="width:100%"></a>
+	  <div class="w3-container w3-white">
+        <p><b>THE CEO</b></p>
+        <p>Lim Hankyeo is a Co-CEO to Ukiyo Creative who is born on April 14th, 1991.</p>
+      </div>
+    </div>
+	
+    <div class="w3-third w3-container w3-margin-bottom">
+      <a href="https://www.wattpad.com/story/274046661?utm_source=android&utm_medium=link&utm_content=story_info&wp_page=story_details_button&wp_uname=YYISM-&wp_originator=sH29p2uMlpIPjWhusCFrVXoX33w%2FjnRQrxGP%2B2W8vuYPQ3DTLzd4%2Fsj%2B%2B%2BCnwVV1Y93MK0W8Qj8An%2FjVzhRyUpALkF3doAnPG3pYfjh13alJWdivNZsrj2l55D9VaH5U"><img src="OFFICIAL.gif" style="width:100%"></a>
+      <div class="w3-container w3-white">
+        <p><b>THE COMPANY</b></p>
+        <p>Click the image to be directed to the book!</p>
+      </div>
+    </div>
+
+    <div class="w3-third w3-container w3-margin-bottom">
+      <a href="https://instagram.com/ukycrtv?igshid=YmMyMTA2M2Y="><img src="3.png" style="width:100%"></a>
+      <div class="w3-container w3-white">
+        <p><b>THE CEO</b></p>
+        <p>Yoo Junho is a Co-CEO to Ukiyo Creative who is born on February 2, 1992.</p>
+      </div>
+    </div>
+</div>
+
+    <div class="w3-section w3-bottombar w3-padding-16">
+</div>
+
+  <div class="w3-container w3-padding-large" style="margin-bottom:32px">
+    <h4 id="calendar"><b>CALENDAR</b></h4>
+    <p>
+UKIYO CALENDAR is a mini company based project proposed by the Ukiyo Staff revolving around making a calendar to store events or dates related to the company and it's trainees, everyone registered under Ukiyo are applicable to enter a date to be featured and those featured in the Birthday list are granted a party dedicated to them and funds for a venue of their choice.
+</p>
+
+<div class="header" id="header">
+<center><img src="calendar.gif" width="*"><center>
+
+</div>
+
+<br>
+    <div class="w3-section w3-bottombar w3-padding-16">
+</div>
+
+<br> 
+<div id="this">	 
+    <h4 id="celebrants"><b>CELEBRANTS</b></h4> 
+    <p>
+Birthdays are nice, and Ukiyo values our dear trainees' special day! Scroll below to see who turned a year older towards being a senior citizen lol!
+</p> 
+	  <div class="w3-row-padding">
+    <div class="w3-third w3-container w3-margin-bottom">
+      <a href="https://instagram.com/ukycrtv?igshid=YmMyMTA2M2Y="><img src="kyeo.png" style="width:100%"></a>
+	  <div class="w3-container w3-white">
+        <p><b>APRIL 14</b></p>
+        <p>Lim Hankyeo | Click the image to direct to the celebrant's instagram account to greet them!</p>
+      </div>
+    </div>
+	
+    <div class="w3-third w3-container w3-margin-bottom">
+      <a href="https://instagram.com/ukycrtv?igshid=YmMyMTA2M2Y="><img src="bday.png" style="width:100%"></a>
+      <div class="w3-container w3-white">
+        <p><b>APRIL ##</b></p>
+        <p>Name | Click the image to direct to the celebrant's instagram account to greet them!</p>
+      </div>
+    </div>
+
+    <div class="w3-third w3-container w3-margin-bottom">
+      <a href="https://instagram.com/ukycrtv?igshid=YmMyMTA2M2Y="><img src="bday.png" style="width:100%"></a>
+      <div class="w3-container w3-white">
+        <p><b>APRIL ##</b></p>
+        <p>Name | Click the image to direct to the celebrant's instagram account to greet them!</p>
+      </div>
+    </div>
+</div>
+
+    <div class="w3-section w3-bottombar w3-padding-16">
+</div>
+
+
+
+  <div class="w3-container w3-padding-large w3-white">
+    <h4 id="contact"><b>CONTACT</b></h4>
+    <div class="w3-row-padding w3-center w3-padding-24" style="margin:0 -16px">
+      <div class="w3-third w3-light-grey">
+        <p><i class="fa fa-envelope w3-xxlarge w3-text-dark-grey"></i></p>
+        <p>ukycreative@gmail.com</p>
+      </div>
+      <div class="w3-third w3-deep-purple">
+        <p><i class="fa fa-map-marker w3-xxlarge w3-text-light-grey"></i></p>
+        <p>Seoul, SK</p>
+      </div>
+      <div class="w3-third w3-light-grey">
+        <p><i class="fa fa-phone w3-xxlarge w3-text-dark-grey"></i></p>
+        <p>YYISM- on Wattpad</p>
+      </div>
+    </div>
+    <hr class="w3-opacity">
+    <form action="/" target="_blank">
+      <div class="w3-section">
+        <label>Name</label>
+        <input class="w3-input w3-border" type="text" name="Name" required>
+      </div>
+      <div class="w3-section">
+        <label>Email</label>
+        <input class="w3-input w3-border" type="Email" name="Email" required>
+      </div>
+      <div class="w3-section">
+        <label>Message</label>
+        <input class="w3-input w3-border" type="text" name="Message" required>
+      </div>
+      <button type="submit" class="w3-button w3-black w3-margin-bottom" value="submit"><i class="fa fa-paper-plane w3-margin-right"></i>Send Message</button>
+    </form>
+  </div>
+
+	<div>
+	<a href="#header"><img src="back.png" width="50"><b>back to top</b></a>	
+    </div>
+	
+ </footer>
+</head>
+
+</html>
+
+
